@@ -22,6 +22,8 @@ As cores e disposição seguem o padrão de um semáforo real:
 
 [Vídeo de demonstração](https://youtube.com/shorts/HyW6deyOSlo?feature=share)
 
+<img src='Foto semaforo.jpeg' alt='Foto do protótio físico do Semáforo' height=500>
+
 
 **Descrição da montagem:**
 - Cada LED está conectado a um pino digital do ESP32 por meio de um resistor de 220 Ω.  
