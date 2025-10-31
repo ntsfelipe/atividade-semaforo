@@ -1,4 +1,4 @@
-# Projeto Semáforo com Offline — Introdução à Programação em C++ e Sistemas Embarcados IoT
+# Projeto Semáforo Offline
 
 ## Contexto
 
