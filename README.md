@@ -80,6 +80,8 @@ void loop() {
   }
 }
 ```
+---
+
 ### Avaliação em pares
 
 #### Avaliador 1 - Rafael Cabral
